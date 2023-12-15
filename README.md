@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Bela!<br><br>🎓 Academic Journey:<br>📚 Undergraduate student in Computational Mathematics at UFMG (5th semester)<br>🤖 Research student at @VerLab, UFMG<br>🏆 2-time Minas Gerais state winner of the Brazilian Robotics Olympics (OBR)<br><br>💻 Coding Explorer:<br>🚀 Learning coder with a keen interest in diverse languages and technologies<br>🎨 Bringing design and digital arts experience to coding projects<br><br>🌱 Current Focus:<br>🤖 Researching Robotics and Path Planning Algorithms<br>🏆 Developing a project for Educational Robotics<br>🚀 Exploring and expanding my coding abilities
+👋 Hey, I'm Bela!<br><br>🎓 Academic Journey:<br>📚 Undergraduate student in Computational Mathematics at UFMG (5th semester)<br>🤖 Research student at [@verlab](https://github.com/verlab), UFMG<br>🏆 2-time Minas Gerais state winner of the Brazilian Robotics Olympics (OBR)<br><br>💻 Coding Explorer:<br>🚀 Learning coder with a keen interest in diverse languages and technologies<br>🎨 Bringing design and digital arts experience to coding projects<br><br>🌱 Current Focus:<br>🤖 Researching Robotics and Path Planning Algorithms<br>🏆 Developing a project for Educational Robotics<br>🚀 Exploring and expanding my coding abilities
 
 
 ## 🌐 Socials:
