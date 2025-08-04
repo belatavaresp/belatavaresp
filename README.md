@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Bela!<br><br>🎓 Academic Journey:<br>📚 Undergraduate student in Computational Mathematics at UFMG (7th semester)<br>🤖 Research student at T-Rex, UFMG<br>🏆 2-time Minas Gerais state winner of the Brazilian Robotics Olympics (OBR)<br> 🏆 Best Female Team SBC Programming Marathon (Belo Horizonte regional phase) <br><br>💻 Coding Experience:<br>Currently working as SWE Intern @quintoandar<br>🌱 Current Focus:<br>🤖 Researching Reconfigurations and matching problems<br>🏆 Developing a project for Educational Robotics<br>🚀 Expanding my coding abilities with competitive programming
+👋 Hey, I'm Bela!<br><br>🎓 Academic Journey:<br>📚 Undergraduate student in Computational Mathematics at UFMG (7th semester)<br>🤖 Research student at T-Rex, UFMG<br>🏆 2-time Minas Gerais state winner of the Brazilian Robotics Olympics (OBR)<br> 🏆 Best Female Team SBC Programming Marathon (Belo Horizonte regional phase) <br><br>💻 Coding Experience:<br>Currently working as SWE Intern @quintoandar<br><br>🌱 Current Focus:<br>🤖 Researching Reconfigurations and matching problems<br>🏆 Developing a project for Educational Robotics<br>🚀 Expanding my coding abilities with competitive programming
 
 
 ## 🌐 Socials:
